@@ -8,6 +8,7 @@ import java.util.Vector;
  * 
  * @Author:chenssy
  * @date:2014年8月10日
+ warming:Jadoc 需要依赖office，Linux服务器有限制
  */
 public class WordExportUtils {
 	Vector[] vector = new Vector[10];
